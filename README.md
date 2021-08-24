@@ -27,7 +27,7 @@ Mr. Vishal | 2017 | Static site idea
 Student | Batch | Contribution
 --------|-------|--------------
 [Advaith Menon](https://github.com/advaithm582) | XI-C | Backend, Frontend
-[Akhilesh JC](https://github.com/akhichit2008) | VIII-F | Backend, Frontend, Chatbot
+[Akhilesh JC](https://github.com/akhichit2008) | VIII-F | Backend, Frontend
 [Bala Subramaniam](https://github.com/BalaSubramaniamG) | X-F | Frontend
 [Shashank Ranganathan](https://github.com/shash08) | IX-F | Backend, Frontend, Chatbot
 [Shiva Charan S](https://github.com/Shiva-2008) | VIII-A | Frontend
