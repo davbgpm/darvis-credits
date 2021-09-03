@@ -15,7 +15,7 @@ Mrs. Chitra Raghavan, Principal, DAV Boys Senior Secondary School
 
 ---
 
-# We thank the following alumini in helping us out:
+# We thank the following alumni in helping us out:
 Student | Batch | Contribution
 --------|-------|--------------
 Mr. Kishore Jagan | 2013 | Chatbot - ML bit
