@@ -32,6 +32,6 @@ Student | Batch | Contribution
 [Shashank Ranganathan](https://github.com/shash08) @shash08 | IX-F | Backend, Frontend, Chatbot
 [Shiva Charan S](https://github.com/Shiva-2008) @Shiva-2008 | VIII-A | Frontend
 [Vijay Ramakrishna](https://github.com/Vijay11811) @Vijay11811 | VIII-A | Frontend
-[Yashwant K. N.]() @ | VIII-A | Frontend
+[Yashwant K. N.]() | VIII-A | Frontend
 
 ---
