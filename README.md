@@ -40,7 +40,7 @@ Student | Batch | Contribution
 # Developers, 2024 batch (In Lexicographic Order):
 Student | Batch | Contribution
 --------|-------|--------------
-[Akhilesh JC](https://github.com/akhichit2008) @akhichit2008 | IX-F | Backend, Frontend
+[Akhilesh JC](https://github.com/akhichit2008) @akhichit2008 | XI-D | Backend, Frontend
 [Inay Chetan Chauhan](https://github.com/InayChauhan) @InayChauhan | XI-D | Frontend
 [Nethra Balan P](https://github.com/nethrabalan) @nethrabalan | XI-E | Frontend
 [Nissanth G](https://github.com/Nissanth-G) @Nissanth-G | XI-C | Frontend
