@@ -46,7 +46,7 @@ Student | Batch | Contribution
 [Nissanth G](https://github.com/Nissanth-G) @Nissanth-G | XI-C | Frontend
 [Raja Murugesan](https://github.com/raja986) @raja986 | XII-C | Frontend, Backend, Chatbot
 [Raghav Adithya](https://github.com/Raghav-2507) @Raghav-2507 | XI-A | Frontend
-[Shashank Ranganathan](https://github.com/shash08) @shash08 | XII-D | Backend, Frontend
+[Shashank Ranganathan](https://github.com/shashank30) @shashankr30 | XII-D | Backend, Frontend
 [Sraeshta Sabarish](https://github.com/NightHunter56) @NightHunter56 | XI-D | Frontend
 
 ---
