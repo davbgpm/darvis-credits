@@ -31,7 +31,7 @@ Student | Batch | Contribution
 [Akhilesh JC](https://github.com/akhichit2008) @akhichit2008 | IX-F | Backend, Frontend
 [Inay Chetan Chauhan](https://github.com/InayChauhan) @InayChauhan | IX-F | Latest Updates to website
 [Bala Subramaniam](https://github.com/BalaSubramaniamG) @BalaSubramaniamG | XI-F | Frontend
-[Shashank Ranganathan](https://github.com/shash08) @shash08 | X-F | Backend, Frontend, Chatbot
+[Shashank Ranganathan](https://github.com/shashank30) @shashankr30 | X-F | Backend, Frontend, Chatbot
 [Shiva Charan S](https://github.com/Shiva-2008) @Shiva-2008 | IX-A | Frontend
 
 
